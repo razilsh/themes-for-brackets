@@ -72,22 +72,22 @@ Good luck, have fun!
 /* Linenumber area left of horizontal scrollbar. Height MUST be the same as width/height of scrollbars */
 
 .CodeMirror .CodeMirror-scroll .CodeMirror-gutters {
-    background-color: #000000
+    background-color: #000000;
 }
 /*Left vertical bar with line count*/
 
 .CodeMirror-gutter {
-    background-color: #292929
+    background-color: #000000;
 }
 /*Left bar with line count - it will affect global line count, BUT line count in inline editor won't be changed.*/
 
 .CodeMirror-linenumbers {
-    background-color: #292929
+    background-color: #292929;
 }
 /*Line count bar only, without "gutter"*/
 
 .CodeMirror-foldgutter {
-    background-color: #292929
+    background-color: #292929;
 }
 /*It's exactly .CodeMirror-gutter{} without .CodeMirror-linenumbers{}.*/
 

@@ -87,12 +87,12 @@ Good luck, have fun!
 /*Line count bar only, without "gutter"*/
 
 .CodeMirror-foldgutter {
-    background-color: #292929
+    background-color: #000000
 }
 /*It's exactly .CodeMirror-gutter{} without .CodeMirror-linenumbers{}.*/
 
 .CodeMirror-gutter-elt {
-    background-color: #292929;
+    background-color: #000000;
     color: #a7a4a4
 }
 /*Syntax elements & action*/
